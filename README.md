@@ -1,7 +1,8 @@
 - 👋 Hi, I am Muhammad ali Mirza
-- 👀 I’m interested in programming languages
-I have learned html and Css.
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in programming languages.
+I have learned HTML CSS JavaScript Bootstrap JQuery.
+i have also learned wordpress only just at intermediate stage.
+i also do data entry works.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 
 whatsapp:+92-317-0068650
