@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
-:school: Currently studying Computer Science at Rutgers University, NJ</br>
+:school: Currently studying in PMAS Arid University Rawalpinsi</br>
 :fountain_pen: I have a passion for creative writing</br>
 :computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
