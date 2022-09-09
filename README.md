@@ -67,6 +67,7 @@
 - 📫 How to reach me **developeralimirza123@gmail.com**
 
 - ⚡ Fun fact **I love doing coding**
+- :school: Currently studying in PMAS Arid University Rawalpinsi</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
