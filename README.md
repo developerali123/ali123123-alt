@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I love doing coding**
 - :school: Currently studying in PMAS Arid University Rawalpinsi</br>
+[![@developerali123's Holopin board](https://holopin.io/api/user/board?user=developerali123)](https://holopin.io/@developerali123)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
