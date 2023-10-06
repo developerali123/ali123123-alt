@@ -1,4 +1,4 @@
-[![@developerali123's Holopin board](https://holopin.io/api/user/board?user=developerali123)](https://holopin.io/@developerali123)
+[![An image of @developerali123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/developerali123)](https://holopin.io/@developerali123)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Muhammad Ali Mirza</h1>
