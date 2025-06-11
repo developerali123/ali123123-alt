@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerali123&label=Profile%20views&color=0e75b6&style=flat" alt="developerali123" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I am Full Stack Developer with 3+ years of experience.
 
 - 👨‍💻 All of my projects are available at [https://developerali123.github.io/ali-portfolio.github.io/](https://developerali123.github.io/ali-portfolio.github.io/)
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **developeralimirza123@gmail.com**
 
 - ⚡ Fun fact **I love doing coding**
-- :school: Currently studying in PMAS Arid University Rawalpinsi</br>
+- :school: I have done BSCS from Arid Agriculture University Rawapindi 2024</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
